@@ -4,4 +4,4 @@ Quick start:
 $ npm install
 $ npm run dev 
 ```
-site exapmle : https://notes-app-uwais.netlify.app/
+site exapmle : https://vasanth-u-notes-app.netlify.app/
